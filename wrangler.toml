@@ -1,0 +1,8 @@
+name = "adsterra-cloudflare-bot"
+type = "javascript"
+account_id = "033f6805c1a5a53d40ad77cac6d0c712"
+workers_dev = true
+compatibility_date = "2025-05-02"
+
+[build]
+upload.format = "modules"
